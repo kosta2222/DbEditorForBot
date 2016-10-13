@@ -1,0 +1,5 @@
+url=jdbc:mysql://localhost:3309/
+username=root
+password=""
+db_name=bot
+driver=com.mysql.jdbc.Driver
